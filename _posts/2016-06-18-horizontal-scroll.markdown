@@ -7,4 +7,4 @@ example-url: "https://github.com/DzgnIO/toolkit/tree/master/horizontal_scroll_na
 permalink: "horizontal-scroll"
 ---
 
-Everybody loves to scroll and now you can scroll in the horizontal direction without the browser also allowing you to scroll in the vertical direction. WOOT WOOT!
+Everybody loves to scroll and now you can scroll in the horizontal direction. Horizontal Scrolling is tough.  We make it easy.
