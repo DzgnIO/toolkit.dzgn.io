@@ -4,7 +4,7 @@ title:  "Scaffold CSS"
 date:   2016-06-19 00:00:00 -0400
 thumbnail: "img/scaffold-css.png"
 example-url: "https://github.com/DzgnIO/scaffold-css"
-permalink: "scaffold-css"
+permalink: "scaffold-css.html"
 ---
 
 Love CSS frameworks? If not sorry. You should, they are great and you should check one out.

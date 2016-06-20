@@ -4,7 +4,7 @@ title:  "Emoji Font"
 date:   2016-06-19 00:00:01 -0400
 thumbnail: "img/emoji-font.png"
 example-url: "https://github.com/DzgnIO/toolkit/tree/master/emoji_font"
-permalink: "emoji-font"
+permalink: "emoji-font.html"
 ---
 
 Emoji Font is a web font that allows you to embed your favorite symbols or emoji into your text. 
